@@ -6,7 +6,7 @@ The goal of this project is to practice responsive design, SCSS workflow, and cl
 ---
 
 ## 🚀 Live Demo
-(You can publish it with GitHub Pages, e.g. ` https://jblclonee.netlify.app/ `)
+(You can publish it with GitHub Pages, e.g. " https://jblclonee.netlify.app/ )
 
 ---
 
